@@ -1,0 +1,26 @@
+.menu{
+    width: 100%;
+}
+
+ul{
+   
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+li a {
+    color: #000;
+    list-style-type: none;
+    text-decoration: none;
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+    text-decoration: none;
+    /* width: 33%; */
+}
+
+
